@@ -1,0 +1,3 @@
+% touch .nojekyll
+% git commit -a -m "Add .nojekyll"
+% git push origin gh-pages
