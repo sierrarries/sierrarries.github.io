@@ -20,7 +20,7 @@ tinker -b
 
 GitHub io にて公開する
 //localのソース・ファイルをローカルリポジトリに移す
-cp -rf source/html/* sierrarries.github.io/html/
+cp -rf source/blog/html/* sierrarries.github.io/
 
 //コミットする
 git add .
