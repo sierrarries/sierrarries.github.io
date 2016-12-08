@@ -9,3 +9,6 @@ link test
 .. comments::
 
 https://twitter.com/sierrarries/status/806892308482301952
+
+<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">みんな実数の位相の意外位相空間が存在しないかのような話しぶりなので社会がつらいです</p>&mdash; （´っ・ωっ・｀）っ(ﾎﾞﾛﾝｯ (@sierrarries) <a href="https://twitter.com/sierrarries/status/806892308482301952">2016年12月8日</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
