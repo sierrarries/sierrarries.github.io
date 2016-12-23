@@ -4,6 +4,7 @@ Sitemap
 .. toctree::
    :maxdepth: 1
 
+   2016/12/23/kov_lang_advent_calendar
    2016/12/09/link_test
    2016/12/04/readme
    2016/12/04/sierra
