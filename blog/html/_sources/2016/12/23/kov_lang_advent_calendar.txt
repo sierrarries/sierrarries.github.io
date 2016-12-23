@@ -1,10 +1,9 @@
 ========================
-こふろいどさんとの出会い
 ..kov lang advent calendar
 ========================
 
 
-
+.. title:: こふろいどさんとの出会い
 .. author:: default
 .. categories:: none
 .. tags:: none
